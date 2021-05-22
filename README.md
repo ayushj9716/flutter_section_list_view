@@ -1,4 +1,4 @@
-# flutter_section_list_view
+# flutter SectionListView
 
 An Application to demonstrate section list view with Contact list like IOS.
 
