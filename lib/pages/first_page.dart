@@ -45,21 +45,6 @@ class _FirstPageState extends State<FirstPage> {
     );
   }
 
-  // GroupView<String>(
-  // elements: contacts,
-  // titleAdapter: (element) => element,
-  // header: _buildHeaderWidget(),
-  // footer: _buildFooterWidget(),
-  // onItemClicked: (element) {
-  // Navigator.push(
-  // context,
-  // MaterialPageRoute(
-  // builder: (context) =>
-  // SecondPage(elementDetails: element.details)),
-  // );
-  // print(element);
-  // },
-  // ),
   _buildHeaderWidget() {
     return Container(
         padding: EdgeInsets.all(8),
